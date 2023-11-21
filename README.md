@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mina</h1>
-<h3 align="center">A full stack developer from Egypt</h3>
 
 - 🔭 I’m currently working on [E-commerce mern stack](https://github.com/mina122354452/Amazone-clone.git)
 

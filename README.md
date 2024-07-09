@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mina</h1>
 
-- 🔭 I’m currently working on [E-commerce mern stack](https://github.com/mina122354452/Amazone-clone.git)
+- 🔭 I’m currently working on [E-commerce mevn stack](https://github.com/mina122354452/Amazone-clone.git)
 
 - 🌱 I’m currently learning **Node.js,vue.js,c,Docker**
 
